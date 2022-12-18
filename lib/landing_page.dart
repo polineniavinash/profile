@@ -114,7 +114,7 @@ class _LandingPageState extends State<LandingPage> {
                       const Color(0xffBC9A5F)]
                   )
                 ),
-                child: Text("Thank You",
+                child: Text("Linkedln",
                 style: TextStyle(
                   color: Colors.white
                 ),),
