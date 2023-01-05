@@ -1,3 +1,3 @@
 Basic Flutter website.
 
-Credit - Sanskar Tiwari
+With the help of Sanskar Tiwari implemented this.
